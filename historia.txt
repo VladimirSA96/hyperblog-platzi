@@ -7,6 +7,8 @@ para su papa que es ingeniero y tiene maestria.
 
 Master 1
 
+Master 2
+
 Anita ahora trabaja en este proyecto y tiene 30 años.
 
 Vlaki es un nuevo trabajador y esta contribuyendo al proyecto de HyperBlog.
